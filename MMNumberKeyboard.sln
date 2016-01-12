@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMNumberKeyboard", "MMNumberKeyboard\MMNumberKeyboard.csproj", "{DCC75C2D-6337-4F43-B616-D1F579548C39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCC75C2D-6337-4F43-B616-D1F579548C39}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{DCC75C2D-6337-4F43-B616-D1F579548C39}.Debug|iPhone.Build.0 = Debug|iPhone
+		{DCC75C2D-6337-4F43-B616-D1F579548C39}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{DCC75C2D-6337-4F43-B616-D1F579548C39}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{DCC75C2D-6337-4F43-B616-D1F579548C39}.Release|iPhone.ActiveCfg = Release|iPhone
+		{DCC75C2D-6337-4F43-B616-D1F579548C39}.Release|iPhone.Build.0 = Release|iPhone
+		{DCC75C2D-6337-4F43-B616-D1F579548C39}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{DCC75C2D-6337-4F43-B616-D1F579548C39}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
